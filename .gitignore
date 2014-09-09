@@ -1,0 +1,5 @@
+/.settings
+/build
+/WebContent
+
+*.class
